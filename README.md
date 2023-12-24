@@ -1,6 +1,6 @@
 # CSAD
-#Info
-#About repository
+# Info
+# About repository
 Course "Computer systems automated design"
-#Student 
+# Student 
 7. Halii Dmytro KI-48
